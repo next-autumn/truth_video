@@ -2,10 +2,10 @@
     "Code":0,
     "Msg":"",
     "UpdateStatus":1,
-    "VersionCode":1,
-    "VersionName":"1",
-    "ModifyContent":"1. 新增音频播放模式，支持锁频音频播放，省电省流量。 \n2. 修复驿站连接失效问题。\n3. 下载地址 \"https://www.zhenshic.tk\"",
+    "VersionCode":101,
+    "VersionName":"1.0.1",
+    "ModifyContent":"1. 调整UI。 \n2. 添加分享下载功能。",
     "DownloadUrl":"https://www.zhenshic.tk/zhenshi.apk",
-    "ApkSize":9810,
-    "ApkMd5":"dce776ab3beab30fa9e6039fe2408f84"
+    "ApkSize":9099,
+    "ApkMd5":"6520f2ba65c39f169d489d4854e4f06f"
 }
